@@ -1,0 +1,9 @@
+{
+	"name": "sevenpercent/url",
+	"description": "URL wrapper class",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	}
+}
